@@ -13,9 +13,9 @@
 |:-------:|:----------- |:------:|
 | [抽象工厂Abstract Factory](/creational/abstract_factory.md) | 一个用于创建相关对象族的接口 | ✘ |
 | [构建器Builder](/creational/builder.md) | 利用简单对象构建一个复杂对象 | ✔ |
-| [工厂方法Factory Method](/creational/factory.md) | Defers instantiation of an object to a specialized function for creating instances | ✔ |
-| [Object Pool](/creational/object-pool.md) | Instantiates and maintains a group of objects instances of the same type | ✔ |
-| [Singleton](/creational/singleton.md) | Restricts instantiation of a type to one object | ✔ |
+| [工厂方法Factory Method](/creational/factory.md) | 将对象创建工作推迟委派给一个指定的函数 | ✔ |
+| [对象池Object Pool](/creational/object-pool.md) | 实例化并维护一组相同类型的对象实例 | ✔ |
+| [单例Singleton](/creational/singleton.md) | 限制只能实例化一个对象 | ✔ |
 
 ## 结构模式
 
